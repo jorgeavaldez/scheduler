@@ -1,0 +1,9 @@
+{
+  "name": "process-scheduler",
+  "version": "0.1.0",
+  "description": "Process Scheduler for OS final project",
+  "main": "index.js",
+  "author": "Jorge Valdez",
+  "license": "MIT",
+  "private": true
+}
